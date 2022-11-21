@@ -1,0 +1,11 @@
+/media/zhang_yuting/Elements/workspace/Drone_A/Cartographer/catkin_ws/protobuf/build/CMakeFiles/install/strip.dir
+/media/zhang_yuting/Elements/workspace/Drone_A/Cartographer/catkin_ws/protobuf/build/CMakeFiles/install/local.dir
+/media/zhang_yuting/Elements/workspace/Drone_A/Cartographer/catkin_ws/protobuf/build/CMakeFiles/install.dir
+/media/zhang_yuting/Elements/workspace/Drone_A/Cartographer/catkin_ws/protobuf/build/CMakeFiles/list_install_components.dir
+/media/zhang_yuting/Elements/workspace/Drone_A/Cartographer/catkin_ws/protobuf/build/CMakeFiles/rebuild_cache.dir
+/media/zhang_yuting/Elements/workspace/Drone_A/Cartographer/catkin_ws/protobuf/build/CMakeFiles/edit_cache.dir
+/media/zhang_yuting/Elements/workspace/Drone_A/Cartographer/catkin_ws/protobuf/build/CMakeFiles/protoc.dir
+/media/zhang_yuting/Elements/workspace/Drone_A/Cartographer/catkin_ws/protobuf/build/CMakeFiles/js_embed.dir
+/media/zhang_yuting/Elements/workspace/Drone_A/Cartographer/catkin_ws/protobuf/build/CMakeFiles/libprotobuf.dir
+/media/zhang_yuting/Elements/workspace/Drone_A/Cartographer/catkin_ws/protobuf/build/CMakeFiles/libprotoc.dir
+/media/zhang_yuting/Elements/workspace/Drone_A/Cartographer/catkin_ws/protobuf/build/CMakeFiles/libprotobuf-lite.dir
