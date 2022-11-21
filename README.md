@@ -11,7 +11,8 @@
    ```
 
    最后看到`lslidar start in XXXX:XX:XX:XX:XX:XX`时代表雷达正常工作
-
+   
+   Edited by Zhang_YuTing
 2. 目前已经可以看见SLAM实测的时候画出的地图，但是不保证参考系设置的正确，这取决于下一步调试。
    使用的启动文件为经过修改的原`catkin_ws/install_isolated/share/cartographer_ros/launch/demo_revo_lds.launch`文件
 
@@ -34,3 +35,4 @@
 
    启动文件的配置文件为`catkin_ws/install_isolated/share/cartographer_ros/configuration_files/revo_lds.lua`
 
+   Edited by Zhang_YuTing
